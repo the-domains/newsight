@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Newsight]]></title>
         <description><![CDATA[Newsight]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/newsight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Dec 2015 19:50:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Dec 2015 19:56:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/newsight/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The World in 2025: 8 Predictions for the Next 10 Years - Singularity HUB]]></title>
+            <description><![CDATA[<article><h1>The World in 2025: 8 Predictions for the Next 10 Years - Singularity HUB</h1><p>462,502 96 In 2025, in accordance with Moore's Law, we'll see an acceleration in the rate of change as we move closer to a world of true abundance. Here are eight areas where we'll see extraordinary transformation in the next decade: In 2025, $1,000 should buy you a computer able to calculate at 10^16 cycles per second (10,000 trillion cycles per second), the equivalent processing speed of the human brain.</p><img src="http://singularityhub.com/wp-content/uploads/2015/03/SU-Summit-Spain-21.jpg"></article>]]></description>
+            <link>http://singularityhub.com/2015/05/11/the-world-in-2025-8-predictions-for-the-next-10-years/#.VnBEzKJDPro.linkedin</link>
+            <guid isPermaLink="false">8bdddadf-241c-4f41-9132-728b435c3b69</guid>
+            <pubDate>Wed, 16 Dec 2015 19:56:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Here's why bitcoin will be bigger than the Internet]]></title>
-            <description><![CDATA[<article><h1>Here's why bitcoin will be bigger than the Internet</h1><p>"In Spanish, we have a saying that when a genius points at the moon, a fool looks at the finger. I find that happens a lot with bitcoin." -Wences Casares Serial entrepreneur Wences Casares created Argentina's first internet provider and later sold his online brokerage firm to Banco Santander for $750 million in 2000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0330384e7143721d99690ff7dfb9bc0fd607146b.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Here's why bitcoin will be bigger than the Internet</h1><p>"In Spanish, we have a saying that when a genius points at the moon, a fool looks at the finger. I find that happens a lot with bitcoin." -Wences Casares Serial entrepreneur Wences Casares created Argentina's first internet provider and later sold his online brokerage firm to Banco Santander for $750 million in 2000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fd5d808121afd0d1117d60ba5184da05691c45.jpg"></article>]]></description>
             <link>http://venturebeat.com/2015/02/16/heres-why-bitcoin-will-be-bigger-than-the-internet/</link>
             <guid isPermaLink="false">d8f0f5ec-0333-4c82-ac06-45c4bcc4876d</guid>
             <pubDate>Wed, 16 Dec 2015 19:50:44 GMT</pubDate>
