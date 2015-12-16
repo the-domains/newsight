@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Newsight]]></title>
+        <description><![CDATA[Newsight]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 16 Dec 2015 19:50:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Here's why bitcoin will be bigger than the Internet]]></title>
+            <description><![CDATA[<article><h1>Here's why bitcoin will be bigger than the Internet</h1><p>"In Spanish, we have a saying that when a genius points at the moon, a fool looks at the finger. I find that happens a lot with bitcoin." -Wences Casares Serial entrepreneur Wences Casares created Argentina's first internet provider and later sold his online brokerage firm to Banco Santander for $750 million in 2000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0330384e7143721d99690ff7dfb9bc0fd607146b.jpg"></article>]]></description>
+            <link>http://venturebeat.com/2015/02/16/heres-why-bitcoin-will-be-bigger-than-the-internet/</link>
+            <guid isPermaLink="false">d8f0f5ec-0333-4c82-ac06-45c4bcc4876d</guid>
+            <pubDate>Wed, 16 Dec 2015 19:50:44 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
