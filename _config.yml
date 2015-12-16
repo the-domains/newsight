@@ -1,7 +1,7 @@
 name: Newsight
 favicon: null
-layout_spectrum: 0.3355891243554652
-typography_spectrum: 0.33141268393956125
+layout_spectrum: 0.7209
+typography_spectrum: 0.63966
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.625
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.125
+  rhythmicContrast: 0.25
 purpose: []
