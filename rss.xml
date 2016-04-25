@@ -4,11 +4,18 @@
         <description><![CDATA[Newsight]]></description>
         <link>https://thegrid.ai/newsight/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 17:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 19:17:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/newsight/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[This Battery-Free Computer Sucks Power Out Of Thin Air]]></title>
+            <description><![CDATA[<article><h1>This Battery-Free Computer Sucks Power Out Of Thin Air</h1><p>Today, the biggest hurdle when it comes to designing new gadgets is battery technology. These big, bulky things restrict the forms our smartphones, computers, and wearables can take, and unfortunately, battery technology is so stagnant that there's no promise of things getting better any time soon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c2c78372c77c0ede2499fc1d6b0a732761dd5e22.jpg"></article>]]></description>
+            <link>http://www.fastcodesign.com/3059141/this-battery-free-computer-sucks-power-out-of-thin-air?</link>
+            <guid isPermaLink="false">6019d947-eb48-4f50-8f70-5c48c790f36d</guid>
+            <pubDate>Mon, 25 Apr 2016 19:17:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Open Culture - The Best Free Cultural and Educational Media on the Web.]]></title>
-            <description><![CDATA[<article><h1>Open Culture - The Best Free Cultural and Educational Media on the Web.</h1><p>On an ordinary afternoon, a group of friends sit around listening to records. Someone puts on a Willie Nelson album, and there is a knock at the door. It's an older man, making a delivery. He pauses behind his clipboard, hearing the music from inside the house.</p><img src="http://cdn4.openculture.com/wp-content/themes/openculture_v2f/images/big_white_logo.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Open Culture - The Best Free Cultural and Educational Media on the Web.</h1><p>On an ordinary afternoon, a group of friends sit around listening to records. Someone puts on a Willie Nelson album, and there is a knock at the door. It's an older man, making a delivery. He pauses behind his clipboard, hearing the music from inside the house.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b145cdbe93edf450292713ee7766753fb41c21f5.png"></article>]]></description>
             <link>http://www.openculture.com/</link>
             <guid isPermaLink="false">79d1b7fa-4b85-492a-b9cd-5b5c4eaf49de</guid>
             <pubDate>Wed, 13 Apr 2016 17:08:01 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://singularityhub.com/2015/05/11/the-world-in-2025-8-predictions-for-the-next-10-years/#.VnBEzKJDPro.linkedin</link>
             <guid isPermaLink="false">8bdddadf-241c-4f41-9132-728b435c3b69</guid>
             <pubDate>Wed, 16 Dec 2015 19:56:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Here's why bitcoin will be bigger than the Internet]]></title>
-            <description><![CDATA[<article><h1>Here's why bitcoin will be bigger than the Internet</h1><p>"In Spanish, we have a saying that when a genius points at the moon, a fool looks at the finger. I find that happens a lot with bitcoin." -Wences Casares Serial entrepreneur Wences Casares created Argentina's first internet provider and later sold his online brokerage firm to Banco Santander for $750 million in 2000.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55fd5d808121afd0d1117d60ba5184da05691c45.jpg"></article>]]></description>
-            <link>http://venturebeat.com/2015/02/16/heres-why-bitcoin-will-be-bigger-than-the-internet/</link>
-            <guid isPermaLink="false">d8f0f5ec-0333-4c82-ac06-45c4bcc4876d</guid>
-            <pubDate>Wed, 16 Dec 2015 19:50:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
